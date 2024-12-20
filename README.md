@@ -6,7 +6,7 @@ Esta guía describe cómo configurar Termux, descargar un archivo necesario, y e
 
 ## Requisitos previos
 
-- Termux instalado en tu dispositivo Android.
+- Termux instalado en tu dispositivo Android desde 0. Preferiblemente si eres nuevo en esgo borra la app y vuelve a instalarlo y sigue esta guia después de su instalación.
 - Conexión a Internet estable.
 - Al menos **4GB de almacenamiento libre**.
 - Archivo `ubuntu-blender.tar.gz` descargado desde [este enlace](https://www.mediafire.com/file/vx18m795x44sp8m/ubuntu-blender.tar.gz/file) y ubicado en la carpeta de descargas predeterminada (`Downloads`).
