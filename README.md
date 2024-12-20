@@ -48,7 +48,7 @@ tar -zxf /sdcard/Downloads/ubuntu-blender.tar.gz --recursive-unlink --preserve-p
 ```
 Esto descomprimirá el archivo en la ubicación especificada.
 
-luego cierra ternux con `exit` para guardar los nuevos cambios y ahora si vuelve abrir termux
+luego cierra termux con `exit` para guardar los nuevos cambios y ahora si vuelve abrir termux
 
 
 ---
