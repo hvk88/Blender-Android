@@ -44,7 +44,7 @@ Además, asegúrate de tener al menos 4GB de almacenamiento libre.
 4. Extraer el archivo
 Ejecuta el siguiente comando para extraer el contenido del archivo:
 ```
-tar -zxf /sdcard/Downloads/ubuntu-blender.tar.gz --recursive-unlink --preserve-permissions
+tar -zxf /sdcard/Download/ubuntu-blender.tar.gz --recursive-unlink --preserve-permissions
 ```
 Esto descomprimirá el archivo en la ubicación especificada.
 
