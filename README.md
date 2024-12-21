@@ -48,7 +48,7 @@ tar -zxf /sdcard/Download/ubuntu-blender.tar.gz --recursive-unlink --preserve-pe
 ```
 Esto descomprimirá el archivo en la ubicación especificada.
 
-luego cierra termux con `exit` para guardar los nuevos cambios y ahora si vuelve abrir termux
+luego cierra termux con `exit` para guardar los nuevos cambios y ahora si vuelve abrir termux y inicia Ubuntu con el comando: `ubuntu` cada vez wue vuelvas a querer entrar a Ubuntu asegúrate que estes o ejecut `ubuntu` para entrar.
 
 
 ---
